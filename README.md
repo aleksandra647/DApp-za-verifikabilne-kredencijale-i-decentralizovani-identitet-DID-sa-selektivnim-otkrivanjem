@@ -47,4 +47,4 @@ Kada su ugovori postavljeni i MetaMask konfigurisan, pokrenite frontend:
 \`\`\`bash
 npm run dev
 \`\`\`
-Otvorite \`http://localhost:5417\` u pregledaču i povežite svoj MetaMask nalog.
+Otvorite \`http://localhost:5174\` u pregledaču i povežite svoj MetaMask nalog.
